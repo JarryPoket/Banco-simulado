@@ -1,6 +1,5 @@
 Grupo: 
-Alejandra Carreño Parra
-Santiago Navarro
+Alejandra Carreño Parra y Santiago Navarro
 
 Resultados codigo:
 
